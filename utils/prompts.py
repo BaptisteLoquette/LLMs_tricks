@@ -22,7 +22,7 @@ You will be given a text. Give a concise and understanding summary.
 CONCISE SUMMARY :
 """
 
-global_summary_promp    = """
+global_summary_prompt   = """
 You will be given a series of summaries from a text.
 Your goal is to write a general summary from the given summaries.
 
